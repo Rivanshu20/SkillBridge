@@ -91,13 +91,13 @@ function App() {
             <div className="flex-shrink-0 pt-0.5">
               <img
                 className="h-10 w-10 rounded-full"
-                src={picture}
+                // src={picture}
                 alt=""
               />
             </div>
             <div className="ml-3 flex-1">
               <p className="text-sm font-medium text-gray-900">
-                Yash Sarode
+                Rivanshu sharma
               </p>
               <p className="mt-1 text-sm text-gray-500">
                 Backend server is using free hoisting service which may require 8-10 sec to warm-up initially,
